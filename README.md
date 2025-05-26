@@ -1,6 +1,6 @@
 # **INRC Token – The Future of Digital Transactions**  
 
-[![INRC_token](image-url)](https://inrctoken.shop/)
+[![INRC_token](https://github.com/AbhishekSinghShekhawatSDE/INRC_Token/blob/827c1774e4de28b6adf35f23c497b68aa9ad0565/images/OutPut.jpg)](https://inrctoken.shop/)
 
 
 
