@@ -1,5 +1,7 @@
 # **INRC Token – The Future of Digital Transactions**  
 
+[![INRC_token](image-url)](https://inrctoken.shop/)
+
 
 
 ## **📌 Introduction**  
